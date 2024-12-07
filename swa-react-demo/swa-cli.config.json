@@ -1,0 +1,15 @@
+{
+  "appLocation": "./",
+  "outputLocation": ".next",
+  "apiLocation": "",
+  "appDevserverUrl": "http://localhost:3000",
+  "configurations": {
+    "swa-react-demo": {
+      "appLocation": ".",
+      "outputLocation": "dist",
+      "appBuildCommand": "npm run build",
+      "run": "npm run dev",
+      "appDevserverUrl": "http://localhost:5173"
+    }
+  }
+}
